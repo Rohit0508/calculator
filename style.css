@@ -10,11 +10,14 @@ h3{
     display: inline-block;
     padding: 5px 30px;
     margin: 0;
-    background-color: red;
+    transition-duration: 0.5s;
 }
 body{
-    background-color: aqua;
+    background-image: url("https://i.gifer.com/zqM.gif");
+    background-repeat: no-repeat;
+    background-size:cover; 
 }
-
-
-/* css for file.html................. */
+h3:hover{
+background-color: red;
+z-index: 5;
+}
