@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.cover{
+    text-align: center;
+    margin-top: 30vh;
+}
+button{
+    margin: 4px;
+    padding: 3px 9px;
+}
+input{
+    margin-bottom: 8px;
+    padding: 4px 8px;
+}
